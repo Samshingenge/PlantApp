@@ -1,4 +1,4 @@
-# Travel App Ionic 5 project
+# Plant Login App Ionic 5 project
 PLANT APP - Auth Screens UI Kit
 
 
